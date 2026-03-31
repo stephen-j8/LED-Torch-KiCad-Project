@@ -9,7 +9,7 @@ A Simple 2-layer LED torch circuit designed in KiCad.
 - LED light
 
 ## Tools Used
-- KiCad 10.0 (Schmetic + PCB Layout )
+- KiCad 10.0 (Schematic + PCB Layout )
 - JLCPCB (PCB Fabrication - ordered)
 
 ## Files Included
