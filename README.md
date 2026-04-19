@@ -17,6 +17,7 @@ A Simple 2-layer LED torch circuit designed in KiCad.
 - /LED torch SCHEMATIC - PDF Schematic
 - /LED torch-LAYOUT - PCB layout PDF
 - LED torch.csv - Bill of materials
+- TORCH(1) - PHYSICAL PCB AND PCBA
 
 ## PCB PREVIEW
 - SEE THE (LED-TORCH-SCREENSHOTS.zip)
