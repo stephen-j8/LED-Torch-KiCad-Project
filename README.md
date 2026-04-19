@@ -27,7 +27,8 @@ A Simple 2-layer LED torch circuit designed in KiCad.
 - PCB Layout Complete
 - Gerber Files Generated
 - PCB Ordered from JLCPCB
-- Physical board awaited
+- Physical board Complete
+- PCBA Complete
 
 ## AUTHOR
 STEPHEN.J - EEE Engineer
