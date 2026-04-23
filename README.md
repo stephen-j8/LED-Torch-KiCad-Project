@@ -20,7 +20,7 @@ A Simple 2-layer LED torch circuit designed in KiCad.
 - TORCH(1) - PHYSICAL PCB AND PCBA
 
 ## PCB PREVIEW
-<img width="1820" height="800" alt="PCB LAYOUT" src="https://github.com/user-attachments/assets/7206a24b-7755-43e4-86ae-9a470a82bc61" />
+<img width="1908" height="883" alt="3D PCB VIEW" src="https://github.com/user-attachments/assets/845d1504-a4db-493f-8888-aab03440f7ab" />
 
 
 
